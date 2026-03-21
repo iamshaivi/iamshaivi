@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="clover.gif" width="100%" />
+</div>
+<!--<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h3 align="center" style="color:cyan">Problem Solver</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social)](https://github.com/YOUR_USERNAME)-->
