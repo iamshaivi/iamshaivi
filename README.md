@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="clover.gif" width="100%" />
 </div>
-<h1 align="center">Hi 👋, I'm Shaivi</h1>
-<h3 align="center">✨ A passionate developer from India ✨</h3>
+<h1 align="center">Hi 🍀, I'm Shaivi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Problem+Solver+%F0%9F%92%AA;Always+learning+new+things+%F0%9F%8C%B1;Love+to+code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Problem+Solver+%F0%9F%92%AA;Always+learning+new+things+%F0%9F%8C%B1;Love+to+code+%F0%9F%92%BB](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=77DD77&center=true&width=600&lines=B.Tech+CSE+%7C+Data+Science+%26+Machine+Learning;Aspiring+ML+Engineer+%F0%9F%A7%AE+;Exploring+AI%2C+Data+%26+Cloud+Technologies+%F0%9F%8D%80;Python+%E2%80%A2+C+%E2%80%A2+SQL+%E2%80%A2+DSA)" alt="Typing SVG" />
 </p>
 
 - 🔭 I'm currently working on **my projects**
