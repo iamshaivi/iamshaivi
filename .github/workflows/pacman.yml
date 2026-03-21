@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: iamshaivi
           outputs: |
-             dist/pacman.svg?color_snake=#FFD700&color_dots=#238636,#2ea043,#3fb950,#56d364,#1a7f37
+           dist/pacman.svg?color_snake=#FFD700&color_dots=#1a1b27,#0e4429,#006d32,#26a641,#39d353
             
       - name: Deploy
         uses: crazy-max/ghaction-github-pages@v3
