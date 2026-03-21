@@ -36,5 +36,5 @@
 
 ##  🦦 Beaver 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iamshaivi/iamshaivi/output/beaver.svg" alt="Beaver" />
+  <img src="https://raw.githubusercontent.com/iamshaivi/iamshaivi/output/pacman.svg" alt="Beaver" />
 </p>
