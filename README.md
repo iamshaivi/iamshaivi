@@ -33,3 +33,7 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamshaivi/iamshaivi/output/pacman.svg" alt="Pacman" />
+</p>
