@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: insprac/github-contribution-pac-man@v1
+      - uses: insprac/github-contribution-pac-graph@v1.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_user: iamshaivi
@@ -21,3 +21,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
