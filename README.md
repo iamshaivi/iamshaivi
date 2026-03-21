@@ -27,3 +27,20 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning **Web Development, DS and cloud computing**
 - 💬 Ask me about **anything tech!**
 - ⚡ Fun fact: **I love desi music while coding 🎵**
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/shaivi-428315375/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/iamshaivi">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/shaivi798">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://medium.com/shaivi2453">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+</p>
