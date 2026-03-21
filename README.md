@@ -1,4 +1,4 @@
-## Hi there ʕ◍·⁠ᴥ·◍ʔ
+## Hi there ʕ·⁠ᴥ·ʔ
 
 <div align="center">
   <img src="clover.gif" width="100%" />
@@ -34,6 +34,7 @@
   </a>
 </p>
 
+##  🦦 Beaver 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iamshaivi/iamshaivi/output/pacman.svg" alt="Pacman" />
+  <img src="https://raw.githubusercontent.com/iamshaivi/iamshaivi/output/beaver.svg" alt="Beaver" />
 </p>
