@@ -34,6 +34,8 @@
   </a>
 </p>
 
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
