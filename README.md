@@ -86,7 +86,7 @@
 
    </div>
 </div>-->
----
+<!--
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -102,8 +102,20 @@
   </td>
   </tr>
 </table>
+-->
+<div align="center">
+
+![Shaivi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamshaivi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=88d8b0&icon_color=88d8b0)
+
+</div>
 
 ---
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshaivi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=88d8b0)
+
+</div>
 
 <div align="center">
 
