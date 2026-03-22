@@ -90,8 +90,6 @@
 
 </div>
 
-## Leetcode Stat
-
 ## 🏆 LeetCode Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Shaivi798?theme=dark&font=Fira%20Code&ext=heatmap" />
@@ -108,3 +106,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/iamshaivi/iamshaivi/output/pacman.svg" alt="Pacman"/>
 </p>
+
+<div align="center">
+  <img src="water.gif" width="100%" />
+</div>
