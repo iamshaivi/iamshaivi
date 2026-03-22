@@ -50,8 +50,6 @@
 
 </div>
 
----
-
 **📊 Data Science**
 
 <div align="center">
@@ -66,8 +64,6 @@
 
 </div>
 
----
-
 **🌐 Web**
 
 <div align="center">
@@ -79,8 +75,6 @@
 
 </div>
 
----
-
 **🗄️ Databases**
 
 <div align="center">
@@ -90,8 +84,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A8DADC?style=for-the-badge&logo=postgresql&logoColor=black)
 
 </div>
-
----
 
 **🛠 Tools**
 
