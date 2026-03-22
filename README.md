@@ -88,14 +88,14 @@
 </div>-->
 ---
 
-<table width="0%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr width="100%" border="0" cellspacing="0" cellpadding="0">
+    <td align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
 
 ![Shaivi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamshaivi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=88d8b0&icon_color=88d8b0)
 
   </td>
-    <td align="center">
+    <td align="center"width="100%" border="0" cellspacing="0" cellpadding="0">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=iamshaivi&theme=tokyonight&hide_border=true&background=1a1a2e&ring=88d8b0&fire=88d8b0&currStreakLabel=88d8b0)
 
