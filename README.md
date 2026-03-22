@@ -103,7 +103,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=iamshaivi&theme=tokyonight&hide_border=true&background=1a1a2e&ring=88d8b0&fire=88d8b0&currStreakLabel=88d8b0)
 
   </div>-->
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <table style="border: 1px solid #color; width="100%">
   <tr>
     <td align="left">
 
