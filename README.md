@@ -50,7 +50,6 @@
 
 </div>
 
----
 
 ## 🌐 Web Frameworks
 
@@ -61,8 +60,6 @@
 
 </div>
 
----
-
 ## ☁️ Cloud & Tools
 
 <div align="center">
@@ -70,8 +67,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -96,3 +91,13 @@
   </div>
 
 </div>
+
+## 🎵 Currently Vibing To
+
+> *"Coding is just poetry with syntax errors."* 🌿
+
+---
+
+*somewhere between chai ☕, desi beats 🎵, and a terminal window 🖥️*
+
+---
