@@ -113,9 +113,11 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshaivi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=88d8b0)
+![GitHub Streak](https://streak-stats.demolab.com?user=iamshaivi&theme=tokyonight&hide_border=true&background=1a1a2e&ring=88d8b0&fire=88d8b0&currStreakLabel=88d8b0)
 
 </div>
+
+---
 
 <div align="center">
 
