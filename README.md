@@ -18,8 +18,8 @@
 - 𓇼 ⋆.˚ 𓆟 𓆞 𓆉 𓆝 𓆡⋆.˚ 𓇼
 
 ## 🌐 Connect With Me
-
-<p align="center">
+<div>
+ <p align="center">
   <a href="https://linkedin.com/in/shaivi-428315375/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -32,9 +32,8 @@
   <a href="https://medium.com/shaivi2453">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white/>
   </a>
-</p>
-
----
+ </p>
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +48,7 @@
 </div>
 
 
-## 🌐 Web Frameworks
+## 🕸️ Web Frameworks
 
 <div align="center">
 
