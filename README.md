@@ -106,5 +106,5 @@
 </p>
 
 <div align="center">
-  <img src="𝓛𝓲𝓷 - Anime Gifs.gif" width="75%" />
+  <img src="water.gif" width="75%" />
 </div>
