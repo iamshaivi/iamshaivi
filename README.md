@@ -18,8 +18,8 @@
 - 𓇼 ⋆.˚ 𓆟 𓆞 𓆉 𓆝 𓆡⋆.˚ 𓇼
 
 ## 🌐 Connect With Me
-<div>
- <p align="center">
+
+<p align="center">
   <a href="https://linkedin.com/in/shaivi-428315375/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -30,10 +30,9 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://medium.com/shaivi2453">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white/>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
- </p>
-</div>
+</p>
 
 ## 🛠️ Tech Stack
 
