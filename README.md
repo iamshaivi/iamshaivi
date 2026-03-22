@@ -106,5 +106,5 @@
 </p>
 
 <div align="center">
-  <img src="cat.gif" width="85%" />
+  <img src="𝓛𝓲𝓷 - Anime Gifs.gif" width="85%" />
 </div>
