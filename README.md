@@ -74,7 +74,7 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
+<!--<div align="center">
    <div align="left">
 
   ![Shaivi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamshaivi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=88d8b0&icon_color=88d8b0)
@@ -85,7 +85,25 @@
   ![GitHub Streak](https://streak-stats.demolab.com?user=iamshaivi&theme=tokyonight&hide_border=true&background=1a1a2e&ring=88d8b0&fire=88d8b0&currStreakLabel=88d8b0)
 
    </div>
-</div>
+</div>-->
+---
+
+<table width="100%">
+  <tr>
+    <td align="center">
+
+![Shaivi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamshaivi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=88d8b0&icon_color=88d8b0)
+
+  </td>
+    <td align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=iamshaivi&theme=tokyonight&hide_border=true&background=1a1a2e&ring=88d8b0&fire=88d8b0&currStreakLabel=88d8b0)
+
+  </td>
+  </tr>
+</table>
+
+---
 
 <div align="center">
 
