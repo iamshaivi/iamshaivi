@@ -34,10 +34,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iamshaivi/iamshaivi/output/pacman.svg" alt="Pacman"/>
-</p>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -92,12 +88,21 @@
 
 </div>
 
+## Leetcode Stat
+
+## 🏆 LeetCode Stats
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Shaivi798?theme=dark&font=Fira%20Code&ext=heatmap" />
+</div>
+
 ## 🎵 Currently Vibing To
 
 > *"Coding is just poetry with syntax errors."* 🌿
 
----
-
 *somewhere between chai ☕, desi beats 🎵, and a terminal window 🖥️*
 
----
+## 🦦 Beaver
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamshaivi/iamshaivi/output/pacman.svg" alt="Pacman"/>
+</p>
