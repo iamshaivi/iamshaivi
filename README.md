@@ -106,5 +106,5 @@
 </p>
 
 <div align="center">
-  <img src="water.gif" width="100%" />
+  <img src="water.gif" width="80%" />
 </div>
