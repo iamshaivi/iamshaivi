@@ -36,31 +36,74 @@
 
 ## 🛠️ Tech Stack
 
+**💻 Languages**
+
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/C-A8DADC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD93D?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F39C12?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-9B59B6?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E74C3C?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1ABC9C?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
+---
 
-## 🕸️ Web Frameworks
+**📊 Data Science**
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-FF6B6B?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-9B59B6?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1ABC9C?style=for-the-badge&logo=python&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F39C12?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-2ECC71?style=for-the-badge&logo=anaconda&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-A8DADC?style=for-the-badge&logo=kaggle&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-E74C3C?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
-## ☁️ Cloud & Tools
+---
+
+**🌐 Web**
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-2ECC71?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-FF6B6B?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-9B59B6?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-1ABC9C?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</div>
+
+---
+
+**🗄️ Databases**
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-F39C12?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2ECC71?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A8DADC?style=for-the-badge&logo=postgresql&logoColor=black)
+
+</div>
+
+---
+
+**🛠 Tools**
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-E67E22?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FFD93D?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-A8DADC?style=for-the-badge&logo=docker&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-2ECC71?style=for-the-badge&logo=selenium&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-9B59B6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1ABC9C?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
