@@ -74,27 +74,11 @@
 ---
 
 ## 📊 GitHub Stats
-<!--
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center">
+<div>
+  <div align="center">
 
 ![Shaivi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamshaivi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=88d8b0&icon_color=88d8b0)
-
-  </td>
-    <td align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=iamshaivi&theme=tokyonight&hide_border=true&background=1a1a2e&ring=88d8b0&fire=88d8b0&currStreakLabel=88d8b0)
-
-  </td>
-  </tr>
-</table>
--->
-<div>
-  <!-- <div align="center">
-
-<!--![Shaivi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamshaivi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=88d8b0&icon_color=88d8b0)
 
   </div>
 
@@ -102,21 +86,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=iamshaivi&theme=tokyonight&hide_border=true&background=1a1a2e&ring=88d8b0&fire=88d8b0&currStreakLabel=88d8b0)
 
-  </div>-->
-  <table style="border: 1px solid #color; width="100%">
-  <tr>
-    <td align="left">
+  </div>
 
-![Shaivi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamshaivi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=88d8b0&icon_color=88d8b0)
-
-  </td>
-    <td align="right">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=iamshaivi&theme=tokyonight&hide_border=true&background=1a1a2e&ring=88d8b0&fire=88d8b0&currStreakLabel=88d8b0)
-
-  </td>
-  </tr>
-</table>
 
   <div align="center">
 
