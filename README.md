@@ -69,6 +69,7 @@
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-2ECC71?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-FF6B6B?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-9B59B6?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-1ABC9C?style=for-the-badge&logo=tailwindcss&logoColor=white)
