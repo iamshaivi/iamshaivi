@@ -41,9 +41,9 @@
 
 ## 🛠️ Tech Stack
 
-**💻 Languages**
+**Languages**
 
-<div align="center">
+<div align="left">
 
 ![C](https://img.shields.io/badge/C-A8DADC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -55,23 +55,23 @@
 
 </div>
 
-**📊 Data Science**
+**Data Science**
 
-<div align="center">
+<div align="left">
 
-![NumPy](https://img.shields.io/badge/NumPy-FF6B6B?style=social&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-9B59B6?style=social&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1ABC9C?style=social&logo=python&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F39C12?style=social&logo=scikitlearn&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-2ECC71?style=social&logo=anaconda&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-A8DADC?style=social&logo=kaggle&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-E74C3C?style=social&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-FF6B6B?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-9B59B6?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1ABC9C?style=for-the-badge&logo=python&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F39C12?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-2ECC71?style=for-the-badge&logo=anaconda&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-A8DADC?style=for-the-badge&logo=kaggle&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-E74C3C?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
-**🌐 Web**
+**Web**
 
-<div align="center">
+<div align="left">
 
 ![React](https://img.shields.io/badge/React-2ECC71?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -81,9 +81,9 @@
 
 </div>
 
-**🗄️ Databases**
+**Databases**
 
-<div align="center">
+<div align="left">
 
 ![MySQL](https://img.shields.io/badge/MySQL-F39C12?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2ECC71?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -93,7 +93,7 @@
 
 **🛠 Tools**
 
-<div align="center">
+<div align="left">
 
 ![Git](https://img.shields.io/badge/Git-E67E22?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFD93D?style=for-the-badge&logo=linux&logoColor=black)
