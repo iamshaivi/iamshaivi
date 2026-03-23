@@ -43,7 +43,7 @@
 
 **Languages**
 
-<div align="left">
+<div align="center">
 
 ![C](https://img.shields.io/badge/C-A8DADC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -57,7 +57,7 @@
 
 **Data Science**
 
-<div align="left">
+<div align="center">
 
 ![NumPy](https://img.shields.io/badge/NumPy-FF6B6B?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-9B59B6?style=for-the-badge&logo=pandas&logoColor=white)
@@ -71,7 +71,7 @@
 
 **Web**
 
-<div align="left">
+<div align="center">
 
 ![React](https://img.shields.io/badge/React-2ECC71?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -83,7 +83,7 @@
 
 **Databases**
 
-<div align="left">
+<div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-F39C12?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2ECC71?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -93,7 +93,7 @@
 
 **🛠 Tools**
 
-<div align="left">
+<div align="center">
 
 ![Git](https://img.shields.io/badge/Git-E67E22?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFD93D?style=for-the-badge&logo=linux&logoColor=black)
@@ -129,6 +129,7 @@
 </div>
 
 ## LeetCode Stats
+
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Shaivi798?theme=dark&font=Fira%20Code&ext=heatmap" />
 </div>
