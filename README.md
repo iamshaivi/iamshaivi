@@ -59,13 +59,13 @@
 
 <div align="center">
 
-![NumPy](https://img.shields.io/badge/NumPy-FF6B6B?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-9B59B6?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1ABC9C?style=for-the-badge&logo=python&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F39C12?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-2ECC71?style=for-the-badge&logo=anaconda&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-A8DADC?style=for-the-badge&logo=kaggle&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-E74C3C?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-FF6B6B?style=social&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-9B59B6?style=social&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1ABC9C?style=social&logo=python&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F39C12?style=social&logo=scikitlearn&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-2ECC71?style=social&logo=anaconda&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-A8DADC?style=social&logo=kaggle&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-E74C3C?style=social&logo=jupyter&logoColor=white)
 
 </div>
 
