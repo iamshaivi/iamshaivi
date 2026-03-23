@@ -40,7 +40,7 @@
 
 ## 🛒 Tech Stack
 
-** 💾 Languages**
+**💾 Languages**
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 </div>
 
-** 📈 Data Science**
+**📈 Data Science**
 
 <div align="center">
 
@@ -68,7 +68,7 @@
 
 </div>
 
-** 🕸️ Web**
+**🕸️ Web**
 
 <div align="center">
 
@@ -80,7 +80,7 @@
 
 </div>
 
-** 📊 Databases**
+**📊 Databases**
 
 <div align="center">
 
