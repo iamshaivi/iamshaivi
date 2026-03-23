@@ -145,8 +145,8 @@
   <img src="https://raw.githubusercontent.com/iamshaivi/iamshaivi/output/pacman.svg" alt="Pacman"/>
 </p>
 
-<div align="center">
+<!--<div align="center">
   <img src="water.gif" width="100%"/>
-</div>
+</div>-->
 
 🌱 Every repo here is a step in my growth.
