@@ -20,10 +20,8 @@
 
 <div align="center">
 
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin)](https://linkedin.com/in/shaivi-428315375)-->
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=social&logo=gmail)](mailto:info.shaivi.26@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/Shaivi26)
-<!--[![Discord](https://img.shields.io/badge/Discord-black?style=social&logo=discord)](https://discord.com/users/eunsoomin)-->
 [![GitHub](https://img.shields.io/badge/Follow-black?style=social&logo=github)](https://github.com/iamshaivi)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-black?style=social&logo=stackoverflow)](https://stackoverflow.com/users/31959671)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=social&logo=leetcode&logoColor=white)](https://leetcode.com/Shaivi798)
@@ -31,6 +29,8 @@
 [![Medium](https://img.shields.io/badge/Medium-black?style=social&logo=medium)](https://medium.com/@shaivi2453)
 [![DEV.to](https://img.shields.io/badge/DEV.to-black?style=social&logo=devdotto)](https://dev.to/shaivi_798)
 [![Hashnode](https://img.shields.io/badge/Hashnode-black?style=social&logo=hashnode)](https://hashnode.com/@shaivi)
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin)](https://linkedin.com/in/shaivi-428315375)-->
+<!--[![Discord](https://img.shields.io/badge/Discord-black?style=social&logo=discord)](https://discord.com/users/eunsoomin)-->
 <!--![[Twitter](https://img.shields.io/badge/Follow%20@YOUR_USERNAME-black?style=social&logo=x)]-->
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_SITE.vercel.app)-->
 
