@@ -3,6 +3,25 @@
 <div align="center">
   <img src="clover.gif" width="100%" />
 </div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin)](https://linkedin.com/in/shaivi-428315375)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=social&logo=gmail)](mailto:info.shaivi.26@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/Shaivi26)
+[![Discord](https://img.shields.io/badge/Discord-black?style=social&logo=discord)](https://discord.com/users/eunsoomin)
+[![GitHub](https://img.shields.io/badge/Follow-black?style=social&logo=github)](https://github.com/iamshaivi)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-black?style=social&logo=stackoverflow)](https://stackoverflow.com/users/31959671)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=social&logo=leetcode&logoColor=white)](https://leetcode.com/Shaivi798)
+[![CodeChef](https://img.shields.io/badge/CodeChef-black?style=social&logo=codechef)](https://codechef.com/users/shaivi_798)
+[![Medium](https://img.shields.io/badge/Medium-black?style=social&logo=medium)](https://medium.com/@shaivi2453)
+[![DEV.to](https://img.shields.io/badge/DEV.to-black?style=social&logo=devdotto)](https://dev.to/shaivi_798)
+[![Hashnode](https://img.shields.io/badge/Hashnode-black?style=social&logo=hashnode)](https://hashnode.com/@shaivi)
+<!--![[Twitter](https://img.shields.io/badge/Follow%20@YOUR_USERNAME-black?style=social&logo=x)]-->
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_SITE.vercel.app)-->
+
+</div>
+
 <h1 align="center">Hi 🍀, I'm Shaivi</h1>
 
 <p align="center">
@@ -19,40 +38,9 @@
 
 ## 🌐 Connect With Me
 
-<!--<p align="center">
-  <a href="https://linkedin.com/in/shaivi-428315375/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/iamshaivi">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/shaivi798">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://medium.com/shaivi2453">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-</p>-->
-
-<!--<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaivi-428315375)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.shaivi.26@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shaivi26)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/eunsoomin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamshaivi)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31959671)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Shaivi798)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/shaivi_798)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shaivi2453)
-[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shaivi_798)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@shaivi)
-<!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)-->
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_SITE.vercel.app)-->
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/shaivi-428315375)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin)](https://linkedin.com/in/shaivi-428315375)
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=social&logo=gmail)](mailto:info.shaivi.26@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/Shaivi26)
 [![Discord](https://img.shields.io/badge/Discord-black?style=social&logo=discord)](https://discord.com/users/eunsoomin)
