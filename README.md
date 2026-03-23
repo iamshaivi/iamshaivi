@@ -51,8 +51,8 @@
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_SITE.vercel.app)-->
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/shaivi-428315375)
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin)](https://linkedin.com/in/shaivi-428315375)-->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin&logoColor=0A66C2))](https://linkedin.com/in/shaivi-428315375)
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=social&logo=gmail)](mailto:info.shaivi.26@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/Shaivi26)
 [![Discord](https://img.shields.io/badge/Discord-black?style=social&logo=discord)](https://discord.com/users/eunsoomin)
