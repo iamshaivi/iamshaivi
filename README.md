@@ -108,22 +108,22 @@
 ## 📊 GitHub Stats
 
 <div>
-  <div align="center">
-    <div align="left">
+    <div align="center">
 
 ![Shaivi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamshaivi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=88d8b0&icon_color=88d8b0)
 
   </div>
 
-   <div align="right">
+   <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=iamshaivi&theme=tokyonight&hide_border=true&background=1a1a2e&ring=88d8b0&fire=88d8b0&currStreakLabel=88d8b0)
 
   </div>
-  </div>
 
   <div align="center">
+    
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshaivi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=88d8b0)
+
   </div>
 
 </div>
