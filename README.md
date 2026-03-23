@@ -58,7 +58,7 @@
 [![Discord](https://img.shields.io/badge/Discord-black?style=social&logo=discord)](https://discord.com/users/eunsoomin)
 [![GitHub](https://img.shields.io/badge/Follow-black?style=social&logo=github)](https://github.com/iamshaivi)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-black?style=social&logo=stackoverflow)](https://stackoverflow.com/users/31959671)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Shaivi798)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=social&logo=leetcode&logoColor=white)](https://leetcode.com/Shaivi798)
 [![CodeChef](https://img.shields.io/badge/CodeChef-black?style=social&logo=codechef)](https://codechef.com/users/shaivi_798)
 [![Medium](https://img.shields.io/badge/Medium-black?style=social&logo=medium)](https://medium.com/@shaivi2453)
 [![DEV.to](https://img.shields.io/badge/DEV.to-black?style=social&logo=devdotto)](https://dev.to/shaivi_798)
