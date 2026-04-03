@@ -104,7 +104,7 @@
 
 </div>
 
-<!--## 🧾 GitHub Stats
+## 🧾 GitHub Stats
 
 <div>
     <div align="center">
@@ -131,7 +131,7 @@
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Shaivi798?theme=dark&font=Fira%20Code&ext=heatmap" />
-</div>-->
+</div>
 
 ## 🎵 Currently Vibing To
 
