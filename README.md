@@ -32,7 +32,7 @@
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin)](https://linkedin.com/in/shaivi-428315375)-->
 <!--[![Discord](https://img.shields.io/badge/Discord-black?style=social&logo=discord)](https://discord.com/users/eunsoomin)-->
 <!--![[Twitter](https://img.shields.io/badge/Follow%20@YOUR_USERNAME-black?style=social&logo=x)]-->
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_SITE.vercel.app)-->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](iamshaivi.github.io/Portfolio_demo/)
 
 </div>
 
