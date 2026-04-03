@@ -29,10 +29,10 @@
 [![Medium](https://img.shields.io/badge/Medium-black?style=social&logo=medium)](https://medium.com/@shaivi2453)
 [![DEV.to](https://img.shields.io/badge/DEV.to-black?style=social&logo=devdotto)](https://dev.to/shaivi_798)
 [![Hashnode](https://img.shields.io/badge/Hashnode-black?style=social&logo=hashnode)](https://hashnode.com/@shaivi)
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin)](https://linkedin.com/in/shaivi-428315375)-->
-<!--[![Discord](https://img.shields.io/badge/Discord-black?style=social&logo=discord)](https://discord.com/users/eunsoomin)-->
-<!--![[Twitter](https://img.shields.io/badge/Follow%20@YOUR_USERNAME-black?style=social&logo=x)]-->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](iamshaivi.github.io/Portfolio_demo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin)](https://linkedin.com/in/shaivi30)
+[![Discord](https://img.shields.io/badge/Discord-black?style=social&logo=discord)](https://discord.com/users/eunsoomin)
+![[Twitter](https://img.shields.io/badge/Follow%20@YOUR_USERNAME-black?style=social&logo=x)](https://x.com/Shaivi330143)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](iamshaivi.github.io/Portfolio_demo/)-->
 
 </div>
 
