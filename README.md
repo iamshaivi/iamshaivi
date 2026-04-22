@@ -104,7 +104,7 @@
 
 </div>
 
-## 🧾 GitHub Stats
+<!--## 🧾 GitHub Stats
 
 <div>
     <div align="center">
@@ -125,9 +125,9 @@
 
   </div>
 
-</div>
+</div>-->
 
-## 📋 LeetCode Stats
+<!--📋 LeetCode Stats
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Shaivi798?theme=dark&font=Fira%20Code&ext=heatmap" />
@@ -137,7 +137,7 @@
 
 > *"Coding is just poetry with syntax errors."* 🌿
 
-*somewhere between chai ☕, desi beats 🎵, and a terminal window 🖥️*
+*somewhere between chai ☕, desi beats 🎵, and a terminal window 🖥️*-->
 
 ## 🦦 Beaver
 
