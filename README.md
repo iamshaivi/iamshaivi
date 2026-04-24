@@ -31,7 +31,7 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-black?style=social&logo=hashnode)](https://hashnode.com/@shaivi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin)](https://linkedin.com/in/shaivi30)
 [![Discord](https://img.shields.io/badge/Discord-black?style=social&logo=discord)](https://discord.com/users/eunsoomin)
-![[Twitter](https://img.shields.io/badge/Follow%20@YOUR_USERNAME-black?style=social&logo=x)](https://x.com/Shaivi330143)
+![[Twitter](https://img.shields.io/badge/Twitter-black?style=social&logo=Twitter)](https://x.com/Shaivi330143)
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](iamshaivi.github.io/Portfolio_demo/)-->
 
 </div>
