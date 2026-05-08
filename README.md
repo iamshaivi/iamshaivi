@@ -139,7 +139,7 @@
 
 *somewhere between chai ☕, desi beats 🎵, and a terminal window 🖥️*-->
 
-## 🦦 Beaver
+<!--## 🦦 Beaver
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iamshaivi/iamshaivi/output/pacman.svg" alt="Pacman"/>
