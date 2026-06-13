@@ -36,7 +36,7 @@
 
 </div>
 
-</div>
+<!--</div>
 
 ## 🛒 Tech Stack
 
@@ -102,7 +102,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-9B59B6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1ABC9C?style=for-the-badge&logo=githubactions&logoColor=white)
 
-</div>
+</div>-->
 
 <!--## 🧾 GitHub Stats
 
