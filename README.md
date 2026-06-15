@@ -4,15 +4,12 @@
   <img src="clover.gif" width="100%" />
 </div>
 <div>
-<div>
 <h1 align="left">Hi 🍀, I'm Shaivi</h1>
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=77DD77&center=true&width=600&lines=Aspiring+ML+Engineer+%F0%9F%A7%AE;B.Tech+CSE+%7C+Data+Science+%26+ML;Exploring+AI+%26+Cloud+Technologies+%F0%9F%8D%80;Python+%E2%80%A2+C+%E2%80%A2+SQL+%E2%80%A2+DSA" alt="Typing SVG" />
 </p>
-</div>
-<div style="border-radius:50%; overflow:hidden;">
-<img src="profile.jpeg" width="200" height="200"/>
-</div>
+<p align="right">
+<img src="profile.jpeg" width="200" height="200"/></p>
 </div>
 
 ## 👩🏻 About Me
