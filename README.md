@@ -22,17 +22,13 @@
 <img src="profile.jpeg" width="120"/>
 </td>
 </tr>
-</table>-->
+</table>
 
-## 👩🏻 About Me
-
-- 🔭 I'm currently working on **my projects**
+<!---🔭 I'm currently working on **my projects**
 - 🌱 I'm currently learning **Web Development, DS and cloud computing**
 - 💬 Ask me about **anything tech!**
 - ⚡ Fun fact: **I love desi music while coding 🎵**.
-- 𓇼 ⋆.˚ 𓆟 𓆞 𓆉 𓆝 𓆡⋆.˚ 𓇼
-
-## 🫱🏻‍🫲🏼 Connect With Me
+- 𓇼 ⋆.˚ 𓆟 𓆞 𓆉 𓆝 𓆡⋆.˚ 𓇼-->
 
 <div align="center">
 
@@ -48,7 +44,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin)](https://linkedin.com/in/shaivi30)
 [![Discord](https://img.shields.io/badge/Discord-black?style=social&logo=discord)](https://discord.com/users/eunsoomin)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=social&logo=Twitter)](https://x.com/Shaivi330143)
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](iamshaivi.github.io/Portfolio_demo/)-->
 
 </div>
 
