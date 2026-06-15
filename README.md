@@ -1,7 +1,7 @@
 <!--## Hi there ʕ⁠´⁠•⁠ᴥ⁠•⁠`⁠ʔ-->
 
 <div align="center">
-  <img src="clover.gif" width="100%" />
+  <img src="clover.gif" width="80%" />
 </div>
 <div>
 <h1 align="center">Hi 🍀, I'm Shaivi</h1>
