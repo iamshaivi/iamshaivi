@@ -14,7 +14,8 @@
 <table>
 <tr>
 <td>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=77DD77&center=true&width=600&lines=Aspiring+ML+Engineer+🧮;B.Tech+CSE+|+Data+Science+%26+ML;Exploring+AI+%26+Cloud+Technologies+🍀;Python+•+C+•+SQL+•+DSA" />
+  <p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=77DD77&center=true&width=600&lines=Aspiring+ML+Engineer+🧮;B.Tech+CSE+|+Data+Science+%26+ML;Exploring+AI+%26+Cloud+Technologies+🍀;Python+•+C+•+SQL+•+DSA" /></p>
 </td>
 <td>
 <img src="profile.jpeg" width="120"/>
